@@ -1,0 +1,43 @@
+#logo {
+    background-color: black;
+    display: flex;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.letra {
+    color: #ff0000;
+    text-decoration: dashed;
+}
+
+.img2 {
+    text-align: center;
+}
+
+.inf1 {
+    color: #ff0000;
+}
+
+.inf2 {
+    color: #ff0000;
+}
+
+.inf3 {
+    color: #ff0000;
+}
+
+.img3 {
+    float: right;
+}
+
+p.p1 {
+    display: inline-flex;
+    text-align: left;
+    float: right;
+}
+
+.bot {
+    text-align: center;
+}
